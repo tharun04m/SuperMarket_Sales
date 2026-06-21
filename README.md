@@ -39,26 +39,6 @@ The Superstore Sales Dashboard is a Business Intelligence project developed usin
 * Sales and Profit Analysis
 * KPI Calculation
 
-## Project Structure
-
-```text
-Superstore-Sales-Dashboard/
-│
-├── Dataset/
-│   └── sales_data.csv
-│
-├── SQL/
-│   └── sales_queries.sql
-│
-├── PowerBI/
-│   └── Superstore_Sales_Dashboard.pbix
-│
-├── Screenshots/
-│   └── dashboard.png
-│
-└── README.md
-```
-
 ## Key Learnings
 
 * Power BI Dashboard Development
